@@ -2,7 +2,7 @@
 
 os core module for cgjs
 
-### WIP - Linux only
+<sup><sub>( currently available for Linux / macOS only )</sub></sup>
 
 #### How to contribute
 
