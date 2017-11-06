@@ -1,5 +1,3 @@
-const MODULE = require('../index');
+const os = require('../index');
 
-if (!Object.keys(MODULE).length) {
-  throw new Error('MODULE was not exported');
-}
+

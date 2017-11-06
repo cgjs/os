@@ -2,6 +2,8 @@
 
 os core module for cgjs
 
+### WIP - Linux only
+
 #### How to contribute
 
 The [@cgjs/timers](https://github.com/cgjs/cgjs-timers) module is the most basic example of a structure suitable to develop and test [cgjs](https://github.com/cgjs/cgjs) core.

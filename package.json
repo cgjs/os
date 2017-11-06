@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/cgjs/os#readme",
   "devDependencies": {
-    "cgjs": "^0.1.9"
+    "cgjs": "^0.1.14"
   }
 }
